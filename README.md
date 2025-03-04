@@ -217,3 +217,4 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | mathisto      | [contributions](credits/mathisto.md)      |        |
 Дополнение 1 (branch1)
 Дополнение 2 (branch1)
+Дополнение 3 (branch1)
