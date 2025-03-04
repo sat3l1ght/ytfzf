@@ -220,3 +220,4 @@ Feel free to contribute, and add your name to the credits, please use the develo
 Дополнение 3 (branch1)
 Доп. правка 1 в branch1
 Доп. правка 2 в branch1
+Доп. правка 3 в branch1
